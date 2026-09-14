@@ -34,7 +34,7 @@ Mahasiswa mampu:
 3. Menjalankan Aplikasi Mobile (React Native)
 - cd ptmn2
 - npx expo start
-- install Expo go via playstore atau app store
+- install Expo go via playstore
 - install Expo go via app store
 - Buka dan Scan QR Code Via Expo Go
 - Running via Web Browser Emulator
