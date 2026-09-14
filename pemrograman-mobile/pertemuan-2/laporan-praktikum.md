@@ -27,7 +27,9 @@ Mahasiswa mampu:
 - https://reacnative.dev/
 - Memulai membuat projek baru dengan Framework Espo Go
 - npx create-expo-app ptmn2 --template blank
+
 ![alt text](image.png)
+<br>
 
 3. Menjalankan Aplikasi Mobile (React Native)
 - cd ptmn2
@@ -39,7 +41,9 @@ Mahasiswa mampu:
 - ctrl+c untuk menghetikan server
 - sebelumnya install (npx expo install react-dom react-native-web)
 - npx expo start --web
+  
 ![alt text](image-2.png)
+<br>
 
 4. Tugas Praktikum Pemrograman Mobile (React Native)
 - Menambagkan CV sederhana dengan React Native 
@@ -48,4 +52,5 @@ Mahasiswa mampu:
 - Asal Sekolah
 - Cita-cita
 - Rencana mencapai cita-cita
+
 ![alt text](image-3.png)
