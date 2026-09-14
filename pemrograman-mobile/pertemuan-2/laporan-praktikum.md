@@ -48,3 +48,4 @@ Mahasiswa mampu:
 - Asal Sekolah
 - Cita-cita
 - Rencana mencapai cita-cita
+![alt text](image-3.png)
