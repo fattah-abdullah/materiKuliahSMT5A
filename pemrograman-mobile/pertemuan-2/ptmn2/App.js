@@ -19,7 +19,7 @@ export default function App() {
             <Text style={styles.avatarText}>👤</Text>
           </View>
 
-          <Text style={styles.name}>[Abdullah Fattah]</Text>
+          <Text style={styles.name}>Abdullah Fattah</Text>
           <Text style={styles.role}>Mahasiswa Informatika</Text>
 
           <View style={styles.line} />
@@ -104,7 +104,7 @@ export default function App() {
             </Text>
 
             <Text style={styles.footerName}>
-              [Nama Lengkap]
+              Abdullah Fattah
             </Text>
           </View>
 
