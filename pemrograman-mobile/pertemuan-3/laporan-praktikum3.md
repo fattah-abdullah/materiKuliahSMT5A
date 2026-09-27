@@ -116,5 +116,4 @@ Setelah menyelesaikan praktikum ini, mahasiswa mampu:
 
 1. Konfirmasi bukti
 
-   <img stylee="Justify-content: center" src="demo-cv-pemob.gif" alt="Demo Aplikasi" width="300">
-
+   <img stylee="Justify-content: center" src="demo-cv-v2-pemob.gif" alt="Demo Aplikasi" width="300">
